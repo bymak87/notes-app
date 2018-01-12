@@ -1,0 +1,19 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "Notes App with Node Express Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "REST",
+    "API",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "amybakameyer",
+  "license": "MIT"
+}
